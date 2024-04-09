@@ -11,4 +11,14 @@ This is a Kotlin Multiplatform project targeting Android, iOS.
   you need this entry point for your iOS app. This is also where you should add SwiftUI code for your project.
 
 
-Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)…
+
+* `voyager-navigation` for navigation from once screen to another use voyager open source library.
+* `viewmodel`  For viewmodel we used ScreenModel powered by Voyager
+
+
+* `/iosApp` contains iOS applications. Even if you’re sharing your UI with Compose Multiplatform,
+  you need this entry point for your iOS app. This is also where you should add SwiftUI code for your project.
+
+
+Run on ios - open Xcode with ios directory and run you app.
+Le arn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)…
