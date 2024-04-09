@@ -13,6 +13,8 @@ This is a Kotlin Multiplatform project targeting Android, iOS.
 
 
 * `voyager-navigation` for navigation from once screen to another use voyager open source library.
+
+* https://voyager.adriel.cafe/setup
 * `viewmodel`  For viewmodel we used ScreenModel powered by Voyager
 
 
